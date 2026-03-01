@@ -1,1 +1,1 @@
-# joanda-labs-análise-inferencial-das-chances
+# joanda-labs-analise-inferencial-das-chances
